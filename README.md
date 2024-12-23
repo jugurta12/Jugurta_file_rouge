@@ -1,2 +1,2 @@
-# Jugurta_file_rouge
+# Jugurta_maquette
 Projet html et css
